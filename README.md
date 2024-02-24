@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Bent Van Aeken
 - 👀 I’m interested in Web development, Design, 3D Printing and Lego
-- 🌱 I’m currently learning Javascript
 
 <!---
 bentvanaeken/bentvanaeken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
