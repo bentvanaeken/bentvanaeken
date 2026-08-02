@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bent Van Aeken
+- 👋 Hi, I’m Bent
 - 👀 I’m interested in Web development, Design, 3D Printing and Lego
 
 <!---
